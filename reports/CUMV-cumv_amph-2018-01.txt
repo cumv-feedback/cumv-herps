@@ -1,0 +1,341 @@
+Report for Institution Code CUMV, Resource cumv_amph
+Usage stats for January 2018, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 288
+Number of records retrieved in searches: 3409
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 4
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 11
+	Country: Unknown ; Times: 6
+	Country: United Kingdom ; Times: 2
+	Country: Germany ; Times: 4
+	Country: Denmark ; Times: 1
+	Country: South Korea ; Times: 1
+	Country: United States ; Times: 254
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-19 ; Times: 6
+	Date: 2018-01-18 ; Times: 1
+	Date: 2018-01-31 ; Times: 8
+	Date: 2018-01-30 ; Times: 16
+	Date: 2018-01-11 ; Times: 8
+	Date: 2018-01-10 ; Times: 12
+	Date: 2018-01-13 ; Times: 2
+	Date: 2018-01-12 ; Times: 5
+	Date: 2018-01-15 ; Times: 8
+	Date: 2018-01-14 ; Times: 8
+	Date: 2018-01-17 ; Times: 11
+	Date: 2018-01-16 ; Times: 7
+	Date: 2018-01-24 ; Times: 25
+	Date: 2018-01-25 ; Times: 10
+	Date: 2018-01-08 ; Times: 13
+	Date: 2018-01-09 ; Times: 8
+	Date: 2018-01-28 ; Times: 4
+	Date: 2018-01-29 ; Times: 14
+	Date: 2018-01-02 ; Times: 3
+	Date: 2018-01-03 ; Times: 33
+	Date: 2018-01-26 ; Times: 8
+	Date: 2018-01-01 ; Times: 7
+	Date: 2018-01-06 ; Times: 3
+	Date: 2018-01-21 ; Times: 19
+	Date: 2018-01-22 ; Times: 3
+	Date: 2018-01-07 ; Times: 5
+	Date: 2018-01-04 ; Times: 3
+	Date: 2018-01-05 ; Times: 6
+	Date: 2018-01-23 ; Times: 22
+	Date: 2018-01-27 ; Times: 4
+	Date: 2018-01-20 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "distance(location,geopoint(39.9847956976,-80.7616277378601))&lt;18440" ; Times: 5
+	Query: "Rana berlandieri" ; Times: 1
+	Query: "genus:Rana institutioncode:CUMV" ; Times: 1
+	Query: "specificepithet:lugubris genus:Aneides county:&#34;Humboldt&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "distance(location,geopoint(42.9332830764,-76.7471778407975))&lt;1844" ; Times: 2
+	Query: "institutioncode:cumv" ; Times: 1
+	Query: "Eleutherodactylus locustus hassex:1" ; Times: 2
+	Query: "Spea multiplicata" ; Times: 1
+	Query: "Eurycea neotenes vntype:specimen family:plethodontidae institutioncode:cumv" ; Times: 1
+	Query: "cryptobranchidae" ; Times: 1
+	Query: "specificepithet:rivularis genus:Taricha stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Lepidobatrachus laevis" ; Times: 1
+	Query: "gastrophryne olivacea texas" ; Times: 1
+	Query: "Smilisca baudinii" ; Times: 4
+	Query: "order:Anura county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Rana luteiventris basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:chattahoochee OR glutinosus genus:Plethodon stateprovince:&#34;Georgia&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:Pseudotriton stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:muscosa genus:Rana county:&#34;San Diego&#34;" ; Times: 1
+	Query: "Chemung river eurycea longicauda" ; Times: 1
+	Query: "genus:Arthroleptis institutioncode:CUMV" ; Times: 1
+	Query: "3854" ; Times: 1
+	Query: "Necturus lodingi" ; Times: 1
+	Query: "Eleutherodactylus cooki" ; Times: 2
+	Query: "Bufo empusus" ; Times: 3
+	Query: "Agalychnis callidryas" ; Times: 1
+	Query: "Pseudacris triseriata maculata" ; Times: 1
+	Query: "Hypopachus variolosus" ; Times: 2
+	Query: "eurycea bislineata vntype:specimen family:plethodontidae institutioncode:CUMV" ; Times: 1
+	Query: "vntype:specimen specificepithet:muscosa genus:Rana county:&#34;Los Angeles&#34;" ; Times: 1
+	Query: "distance(location,geopoint(38.3638273712,-76.1375735855))&lt;12480" ; Times: 2
+	Query: "vntype:specimen specificepithet:muscosa genus:Rana county:&#34;Riverside&#34;" ; Times: 2
+	Query: "Amy R. McCune" ; Times: 1
+	Query: "Bufo margaritifer" ; Times: 3
+	Query: "specificepithet:beyeri genus:Necturus stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "salamander" ; Times: 3
+	Query: "specificepithet:boylii genus:Rana stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "salamandra salamandra" ; Times: 1
+	Query: "West Virginia ambystoma" ; Times: 1
+	Query: "genus:Ensatina county:&#34;Santa Cruz&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "pseudoeurycea vntype:specimen family:plethodontidae institutioncode:CUMV" ; Times: 1
+	Query: "distance(location,geopoint(41.6073861305001,-70.5313918259999))&lt;11201" ; Times: 1
+	Query: "specificepithet:lugubris genus:Aneides county:&#34;Santa Cruz&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Hyperolius institutioncode:CUMV" ; Times: 2
+	Query: "distance(location,geopoint(34.754019041,-98.659389363))&lt;15869" ; Times: 3
+	Query: "Plethodon vandykei vntype:specimen family:plethodontidae institutioncode:cumv" ; Times: 1
+	Query: "gastrophryne olivacea glasscock county" ; Times: 1
+	Query: "distance(location,geopoint(40.7123988985001,-74.471782073))&lt;6083" ; Times: 2
+	Query: "Thorius pulmonaris vntype:specimen family:plethodontidae institutioncode:CUMV" ; Times: 1
+	Query: "genus:Eurycea county:&#34;Wake&#34; stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "plethodon cinereus vntype:specimen institutioncode: cumv" ; Times: 1
+	Query: "Claremont genus:Batrachoseps county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "sapsucker" ; Times: 2
+	Query: "japan amphibian" ; Times: 2
+	Query: "Ambystoma mabeei" ; Times: 1
+	Query: "distance(location,geopoint(44.9725155310001,-72.6967921945))&lt;41043" ; Times: 2
+	Query: "Badger" ; Times: 2
+	Query: "Eleutherodactylus eneidae" ; Times: 2
+	Query: "specificepithet:sylvatica genus:Rana stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "Lithobates pipiens county:&#34;Porter&#34; stateprovince:&#34;Indiana&#34;" ; Times: 1
+	Query: "Scinax ruber" ; Times: 8
+	Query: "Waverly county:&#34;Tioga&#34; stateprovince:&#34;New York&#34;" ; Times: 2
+	Query: "osteopilus" ; Times: 1
+	Query: "Eleutherodactylus richmondi hassex:1" ; Times: 2
+	Query: "captive" ; Times: 1
+	Query: "notophthalmus meridionalis" ; Times: 1
+	Query: "distance(location,geopoint(42.982273806,-76.7911311747546))&lt;1849" ; Times: 2
+	Query: "ambystoma talpoideum" ; Times: 3
+	Query: "Rana muscosa vntype:specimen county:&#34;Riverside&#34;" ; Times: 1
+	Query: "J. W. Brown" ; Times: 1
+	Query: "Leptodactylus melanonotus" ; Times: 1
+	Query: "Under log class:Amphibia country:&#34;United States&#34; year &gt;= 1990 year &lt;= 2018" ; Times: 4
+	Query: "stateprovince:&#34;Virginia&#34; Aneides aeneus" ; Times: 1
+	Query: "specificepithet:ferreus genus:Aneides county:&#34;Douglas County&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Gyrinophilus palleucus vntype:specimen family:plethodontidae institutioncode:cumv" ; Times: 1
+	Query: "ambystoma mabeei" ; Times: 2
+	Query: "specificepithet:ochrophaeus genus:Desmognathus hastissue:1" ; Times: 3
+	Query: "distance(location,geopoint(42.982273806,-76.74601532925))&lt;2785" ; Times: 2
+	Query: "Plethodon mississippi vntype:specimen family:plethodontidae institutioncode:cumv" ; Times: 1
+	Query: "Eurycea nana vntype:specimen family:plethodontidae institutioncode:CUMV" ; Times: 1
+	Query: "plethodon vehiculum" ; Times: 1
+	Query: "pseudacris ornata" ; Times: 1
+	Query: "stateprovince:&#34;Virginia&#34; Cryptobranchus alleganiensis" ; Times: 1
+	Query: "Lithobates pipiens" ; Times: 8
+	Query: "andrias" ; Times: 1
+	Query: "specificepithet:opacum genus:ambystoma stateprovince:&#34;Indiana&#34;" ; Times: 1
+	Query: "Amphibian" ; Times: 1
+	Query: "pseudoeurycea vntype:specimen family:plethodontidae institutioncode:cumv" ; Times: 1
+	Query: "batrachoseps wrightorum" ; Times: 1
+	Query: "order:Anura county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34; year &gt;= 1900 year &lt;= 1950" ; Times: 1
+	Query: "Rana pipiens county:&#34;Porter&#34; stateprovince:&#34;Indiana&#34;" ; Times: 1
+	Query: "Thorius schmidti vntype:specimen family:plethodontidae institutioncode:CUMV" ; Times: 1
+	Query: "specificepithet:lugubris genus:Aneides county:&#34;Marin&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:texanum genus:ambystoma stateprovince:&#34;alabama&#34;" ; Times: 2
+	Query: "Plethodon longicrus vntype:specimen family:plethodontidae institutioncode:cumv" ; Times: 1
+	Query: "plethodon shermani" ; Times: 2
+	Query: "Rana warszewitschii" ; Times: 2
+	Query: "Notophthalmus viridescens and georgia" ; Times: 1
+	Query: "necturus maculosus" ; Times: 1
+	Query: "vntype:specimen institutioncode:CUMV" ; Times: 2
+	Query: "West Virginia JEFFERSONIANUM" ; Times: 1
+	Query: "specificepithet:ferreus genus:Aneides county:&#34;Del Norte&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "desmognathus fuscus vntype:specimen family:plethodontidae institutioncode:CUMV" ; Times: 2
+	Query: "Acris blanchardi" ; Times: 2
+	Query: "genus:Phrynobatrachus institutioncode:CUMV" ; Times: 1
+	Query: "specificepithet:means genus:Amphiuma stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "eurycea longicauda stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Virginia&#34; Pseudotriton montanus" ; Times: 1
+	Query: "Camden county Ambystoma" ; Times: 1
+	Query: "hyla crucifer alabama" ; Times: 1
+	Query: "genus:Leptopelis institutioncode:CUMV" ; Times: 2
+	Query: "Gastrophryne elegans" ; Times: 1
+	Query: "order:Anura county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34; (&#34;Los Angeles River&#34;) year &gt;= 1900 year &lt;= 1950" ; Times: 1
+	Query: "Atelopus zeteki" ; Times: 1
+	Query: "Eleutherodactylus cochranae" ; Times: 2
+	Query: "specificepithet:cognatus genus:bufo stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "chiropterotriton vntype:specimen family:plethodontidae institutioncode:CUMV" ; Times: 1
+	Query: "batrachoseps nigriventris county:&#34;los angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "natrix natrix" ; Times: 1
+	Query: "catalognumber:4458" ; Times: 2
+	Query: "Dicamptodon ensatus" ; Times: 1
+	Query: "specificepithet:exsul genus:bufo" ; Times: 1
+	Query: "catalognumber:1290" ; Times: 1
+	Query: "Rana pipiens county:&#34;Cook&#34; stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "genus:hemidactylium stateprovince:&#34;alabama&#34;" ; Times: 1
+	Query: "rana draytonii" ; Times: 4
+	Query: "fish vntype:specimen AND (amphibian) institutioncode:CUMV" ; Times: 1
+	Query: "specificepithet:torosa genus:Taricha county:&#34;HUmboldt&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Rhinophrynus dorsalis" ; Times: 1
+	Query: "Eurycea tynerensis vntype:specimen family:plethodontidae institutioncode:cumv" ; Times: 1
+	Query: "oedipina vntype:specimen family:plethodontidae institutioncode:CUMV" ; Times: 1
+	Query: "specificepithet:brachyphona genus:pseudacris stateprovince:&#34;virginia&#34; mappable:1" ; Times: 1
+	Query: "specificepithet:punctatus genus:Necturus stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "Plethodon shermani vntype:specimen family:plethodontidae institutioncode:cumv" ; Times: 1
+	Query: "genus:Batrachoseps county:&#34;Santa Barbara&#34;" ; Times: 1
+	Query: "Ambystoma jeffersonianum" ; Times: 1
+	Query: "tousand" ; Times: 1
+	Query: "14014" ; Times: 1
+	Query: "Ambystoma cingulatum" ; Times: 1
+	Query: "Dermophis mexicanus" ; Times: 1
+	Query: "thorius vntype:specimen specificepithet: schmidti" ; Times: 1
+	Query: "Rana luteiventris" ; Times: 1
+	Query: "genus:Necturus stateprovince:&#34;texas&#34; country:&#34;united states&#34;" ; Times: 2
+	Query: "Aneides ferreus" ; Times: 1
+	Query: "Pan institutioncode:CUMV" ; Times: 1
+	Query: "Necturus beyeri" ; Times: 1
+	Query: "genus:bufo stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "catalognumber:4208" ; Times: 1
+	Query: "Eleutherodactylus portoricensis hassex:1" ; Times: 2
+	Query: "Rana pipiens" ; Times: 1
+	Query: "Plethodon dunni vntype:specimen family:plethodontidae institutioncode:cumv" ; Times: 1
+	Query: "genus:Leptodactylus specificepithet:melanonotus" ; Times: 2
+	Query: "eurycea guttolineata vntype:specimen" ; Times: 1
+	Query: "Salamander" ; Times: 1
+	Query: "fish vntype:specimen AND (amphibia*) institutioncode:CUMV" ; Times: 1
+	Query: "Gyrinophilus palleucus vntype:specimen family:plethodontidae institutioncode:CUMV" ; Times: 1
+	Query: "vntype:specimen family:plethodontidae institutioncode:CUMV" ; Times: 1
+	Query: "stateprovince:&#34;Minas Gerais&#34; country:&#34;Brazil&#34; institutioncode:CUMV" ; Times: 1
+	Query: "specificepithet:speciosus genus:Bufo stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Ambystoma texanum" ; Times: 4
+	Query: "stateprovince:&#34;New york&#34; recordedby:Axtell" ; Times: 7
+	Query: "specificepithet:maculatum genus:Ambystoma stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "Plethodon cinereus vntype:specimen family:plethodontidae institutioncode:cumv" ; Times: 2
+	Query: "specificepithet:striatus genus:pseudobranchus" ; Times: 1
+	Query: "distance(location,geopoint(40.7695032552145,-72.9913943725))&lt;10432" ; Times: 1
+	Query: "necturus" ; Times: 1
+	Query: "genus:Aneides stateprovince:&#34;Virginia&#34;" ; Times: 4
+	Query: "Rana draytonii" ; Times: 1
+	Query: "specificepithet:striatus genus:pseudobranchus stateprovince:&#34;georgia&#34; year &gt;= 1960 mappable:1" ; Times: 1
+	Query: "Hyla arenicolor" ; Times: 1
+	Query: "Necturus punctatus" ; Times: 1
+	Query: "distance(location,geopoint(41.6832245335001,-79.9706774))&lt;14151" ; Times: 3
+	Query: "cryptobranchus alleganiensis" ; Times: 1
+	Query: "stateprovince:&#34;New York&#34; (gehlbach)" ; Times: 1
+	Query: "Ambystoma talpoideum" ; Times: 1
+	Query: "specificepithet:exsul" ; Times: 1
+	Query: "bloom" ; Times: 1
+	Query: "Bufo spinosus" ; Times: 1
+	Query: "Eleutherodactylus coqui hassex:1" ; Times: 8
+	Query: "specificepithet:chattahoochee OR glutinosus genus:Plethodon stateprovince:&#34;Georgia&#34; country:&#34;United States&#34; year &gt;= 1950 year &lt;= 1980" ; Times: 1
+	Query: "stateprovince:mississippi class:amphibia" ; Times: 1
+	Query: "genus:Siren specificepithet:lacertina" ; Times: 3
+	Query: "specificepithet:ocellatus genus:Hyperolius institutioncode:CUMV" ; Times: 1
+	Query: "distance(location,geopoint(38.4600230857,-76.144085943))&lt;12886" ; Times: 2
+	Query: "gastrophryne olivacea glasscock" ; Times: 1
+	Query: "Necturus louisianensis" ; Times: 1
+	Query: "Mallard" ; Times: 1
+	Query: "amphibia madagascar" ; Times: 1
+	Query: "Rana pipiens vntype:specimen county:&#34;Porter&#34; stateprovince:&#34;Indiana&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Plethodon albagula vntype:specimen family:plethodontidae institutioncode:cumv" ; Times: 1
+	Query: "specificepithet:beyeri genus:necturus" ; Times: 1
+	Query: "Aneides aeneus stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "specificepithet:texanum genus:ambystoma" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 57 (out of 1398 download events in this period)
+Total number of records downloaded: 1733
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Lithuania ; Times: 1
+	Country: United States ; Times: 48
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 4
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-18 ; Times: 2
+	Date: 2018-01-08 ; Times: 1
+	Date: 2018-01-09 ; Times: 2
+	Date: 2018-01-28 ; Times: 2
+	Date: 2018-01-29 ; Times: 4
+	Date: 2018-01-11 ; Times: 2
+	Date: 2018-01-03 ; Times: 1
+	Date: 2018-01-13 ; Times: 3
+	Date: 2018-01-12 ; Times: 2
+	Date: 2018-01-15 ; Times: 2
+	Date: 2018-01-14 ; Times: 3
+	Date: 2018-01-17 ; Times: 3
+	Date: 2018-01-05 ; Times: 1
+	Date: 2018-01-24 ; Times: 6
+	Date: 2018-01-30 ; Times: 4
+	Date: 2018-01-25 ; Times: 9
+	Date: 2018-01-31 ; Times: 9
+	Date: 2018-01-26 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Batrachoseps attenuatus" ; Times: 1
+	Query: "Ambystoma jeffersonianum" ; Times: 1
+	Query: "Plethodon dunni" ; Times: 1
+	Query: "Rana boylii" ; Times: 2
+	Query: "genus:Rana specificepithet:muscosa" ; Times: 1
+	Query: "Rana pipiens stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "Ambystoma cingulatum" ; Times: 1
+	Query: "atelopus varius" ; Times: 1
+	Query: "county:&#34;Hancock&#34; stateprovince:&#34;Ohio&#34;" ; Times: 1
+	Query: "Ambystoma annulatum" ; Times: 1
+	Query: "Aneides ferreus" ; Times: 1
+	Query: "spea intermontana" ; Times: 1
+	Query: "Plethodon elongatus" ; Times: 1
+	Query: "Ensatina eschscholtzii" ; Times: 1
+	Query: "Ensatina" ; Times: 1
+	Query: "hasmedia:1" ; Times: 1
+	Query: "specificepithet:sylvatica genus:Rana stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "county:&#34;San Mateo&#34; stateprovince:&#34;California&#34; (Amphibia OR Reptilia)" ; Times: 1
+	Query: "Rana pipiens vntype:specimen" ; Times: 1
+	Query: "Ambystoma opacum" ; Times: 1
+	Query: "specificepithet:exsul genus:bufo" ; Times: 1
+	Query: "litoria caerulea" ; Times: 1
+	Query: "Ambystoma texanum" ; Times: 1
+	Query: "stateprovince:&#34;New york&#34; recordedby:Axtell" ; Times: 1
+	Query: "specificepithet:maculatum genus:Ambystoma stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:muscosa genus:Rana county:&#34;Los Angeles&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:muscosa genus:Rana county:&#34;Riverside&#34;" ; Times: 2
+	Query: "Rana aurora" ; Times: 1
+	Query: "Dicamptodon ensatus" ; Times: 1
+	Query: "Rana draytonii" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "Rana pipiens county:&#34;Porter&#34; stateprovince:&#34;Indiana&#34;" ; Times: 1
+	Query: "Ambystoma maculatum" ; Times: 1
+	Query: "Aneides flavipunctatus flavipunctatus" ; Times: 1
+	Query: "specificepithet:aeneus genus:Aneides" ; Times: 1
+	Query: "genus:Bombina specificepithet:bombina" ; Times: 1
+	Query: "vntype:specimen specificepithet:muscosa genus:Rana county:&#34;San Diego&#34;" ; Times: 1
+	Query: "Aneides lugubris" ; Times: 1
+	Query: "oscaecilia" ; Times: 1
+	Query: "Rana pipiens stateprovince:&#34;Wisconsin&#34; year &gt;= 1950 year &lt;= 2017" ; Times: 1
+	Query: "stateprovince:mississippi class:amphibia" ; Times: 1
+	Query: "Aneides aeneus stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "genus:Smilisca country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Rana pipiens county:&#34;Cook&#34; stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "Ambystoma mabeei" ; Times: 1
+	Query: "Atelopus varius" ; Times: 2
+	Query: "notophthalmus meridionalis" ; Times: 1
+	Query: "Rana cascadae" ; Times: 1
+	Query: "Aneides flavipunctatus" ; Times: 3
+	Query: "amphibia madagascar" ; Times: 1
+	Query: "Ambystoma talpoideum" ; Times: 1
+	Query: "aneides lugubris" ; Times: 1
+
+
+End of report.
