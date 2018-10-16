@@ -1,0 +1,284 @@
+Report for Institution Code CUMV, Resource cumv_amph
+Usage stats for March 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 405
+Number of records retrieved in searches: 5777
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 366
+	Country: Netherlands ; Times: 2
+	Country: Mexico ; Times: 12
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Paraguay ; Times: 1
+	Country: Germany ; Times: 6
+	Country: Peru ; Times: 5
+	Country: Puerto Rico ; Times: 1
+	Country: Belgium ; Times: 2
+	Country: Taiwan ; Times: 1
+	Country: Argentina ; Times: 3
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-28 ; Times: 31
+	Date: 2018-03-29 ; Times: 9
+	Date: 2018-03-17 ; Times: 2
+	Date: 2018-03-16 ; Times: 3
+	Date: 2018-03-15 ; Times: 1
+	Date: 2018-03-14 ; Times: 2
+	Date: 2018-03-13 ; Times: 2
+	Date: 2018-03-12 ; Times: 5
+	Date: 2018-03-11 ; Times: 5
+	Date: 2018-03-10 ; Times: 9
+	Date: 2018-03-31 ; Times: 6
+	Date: 2018-03-30 ; Times: 1
+	Date: 2018-03-19 ; Times: 3
+	Date: 2018-03-18 ; Times: 7
+	Date: 2018-03-01 ; Times: 9
+	Date: 2018-03-02 ; Times: 24
+	Date: 2018-03-03 ; Times: 10
+	Date: 2018-03-04 ; Times: 6
+	Date: 2018-03-05 ; Times: 24
+	Date: 2018-03-06 ; Times: 21
+	Date: 2018-03-07 ; Times: 17
+	Date: 2018-03-08 ; Times: 2
+	Date: 2018-03-09 ; Times: 8
+	Date: 2018-03-24 ; Times: 1
+	Date: 2018-03-25 ; Times: 3
+	Date: 2018-03-22 ; Times: 3
+	Date: 2018-03-23 ; Times: 15
+	Date: 2018-03-20 ; Times: 34
+	Date: 2018-03-21 ; Times: 33
+	Date: 2018-03-27 ; Times: 34
+	Date: 2018-03-26 ; Times: 75
+
+List of queries that retrieved data from the resource: 
+	Query: "institutioncode:cumv" ; Times: 2
+	Query: "genus:Litoria specificepithet:aurea" ; Times: 2
+	Query: "genus:Siren specificepithet:intermedia" ; Times: 5
+	Query: "genus:Pseudacris county:&#34;San Diego&#34; stateprovince:&#34;California&#34; mappable:1" ; Times: 1
+	Query: "genus:Anotheca specificepithet:spinosa" ; Times: 5
+	Query: "stateprovince:&#34;new york&#34; (FISH) institutioncode:CUMV" ; Times: 3
+	Query: "vntype:specimen order:Anura institutioncode:CUMV" ; Times: 2
+	Query: "CUMV" ; Times: 2
+	Query: "pseudotriton montanus" ; Times: 9
+	Query: "clo" ; Times: 1
+	Query: "genus:Nectophryne specificepithet:afra" ; Times: 5
+	Query: "eleutherodactylus brittoni" ; Times: 1
+	Query: "genus:Hyla specificepithet:chrysoscelis" ; Times: 3
+	Query: "CUMV marias" ; Times: 2
+	Query: "8868" ; Times: 1
+	Query: "genus:Hyla specificepithet:gratiosa" ; Times: 1
+	Query: "Hamburg" ; Times: 1
+	Query: "coqui" ; Times: 1
+	Query: "genus:Rhinoderma specificepithet:darwinii" ; Times: 5
+	Query: "8221" ; Times: 1
+	Query: "genus:Siren stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "genus:Atelopus specificepithet:varius" ; Times: 2
+	Query: "specificepithet:flavipunctatus genus:Aneides county:&#34;Humboldt&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "salamander" ; Times: 1
+	Query: "genus:Pelobates specificepithet:fuscus" ; Times: 5
+	Query: "15119" ; Times: 1
+	Query: "eleutherodactylus coqui" ; Times: 1
+	Query: "Eleutherodactylus johnstonei" ; Times: 1
+	Query: "genus:Cryptothylax specificepithet:greshoffii" ; Times: 6
+	Query: "catalognumber:5477" ; Times: 1
+	Query: "1065" ; Times: 1
+	Query: "genus:Notophthalmus specificepithet:meridionalis" ; Times: 6
+	Query: "genus:Discoglossus specificepithet:pictus" ; Times: 5
+	Query: "plethodon shermani" ; Times: 1
+	Query: "Ambystoma maculatum stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "ALLEGANIENSIS ALLEGANIENSIS" ; Times: 1
+	Query: "specificepithet:johnstonei genus:Eleutherodactylus" ; Times: 1
+	Query: "country:&#34;Egypt&#34;" ; Times: 1
+	Query: "Cynops pyrrhogaster" ; Times: 1
+	Query: "3166" ; Times: 1
+	Query: "genus:Mannophryne specificepithet:trinitatis" ; Times: 5
+	Query: "12594 R" ; Times: 1
+	Query: "ambystoma talpoideum" ; Times: 4
+	Query: "genus:Pseudacris specificepithet:regilla" ; Times: 3
+	Query: "catatonk" ; Times: 1
+	Query: "stateprovince:&#34;New York&#34; institutioncode:CUMV" ; Times: 1
+	Query: "genus:Pyxicephalus specificepithet:adspersus" ; Times: 5
+	Query: "genus:Acris" ; Times: 1
+	Query: "eleutherodactylus portoricensis" ; Times: 1
+	Query: "genus:Hyla specificepithet:femoralis" ; Times: 6
+	Query: "6269" ; Times: 3
+	Query: "genus:Pseudacris county:&#34;Orange&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Gyrinophilus specificepithet:palleucus" ; Times: 1
+	Query: "genus:Ambystoma stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Charles Alexander" ; Times: 1
+	Query: "genus:Pleurodeles specificepithet:waltl" ; Times: 5
+	Query: "specificepithet:ferreus county:&#34;del norte&#34;" ; Times: 1
+	Query: "Lithobates pipiens" ; Times: 6
+	Query: "specificepithet:porphyriticus genus:Gyrinophilus stateprovince:&#34;carolina&#34;" ; Times: 1
+	Query: "phoca georgia" ; Times: 1
+	Query: "specificepithet:areolata genus:Rana county:&#34;Harris&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:Ascaphus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:couchii distance(location,geopoint(28.84467368077182,-102.50244140625))&lt;100000" ; Times: 4
+	Query: "eleutherodactylus gryllus" ; Times: 1
+	Query: "ambystoma texanum" ; Times: 2
+	Query: "plethodon cinereus institutioncode:CUMV" ; Times: 1
+	Query: "genus:Triturus specificepithet:cristatus" ; Times: 2
+	Query: "genus:Batrachoseps county:&#34;Santa Barbara&#34; mappable:1" ; Times: 1
+	Query: "specificepithet:areolata genus:Rana stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "eleutherodactylus cochranae" ; Times: 1
+	Query: "lithobates pipiens" ; Times: 2
+	Query: "specificepithet:microscaphus family:Bufonidae stateprovince:&#34;Arizona&#34; institutioncode:CUMV" ; Times: 1
+	Query: "genus:Alytes specificepithet:obstetricans" ; Times: 5
+	Query: "genus:Osteopilus specificepithet:septentrionalis" ; Times: 3
+	Query: "genus:Ptychadena specificepithet:oxyrhynchus" ; Times: 2
+	Query: "genus:Masticophis specificepithet:flagellum" ; Times: 2
+	Query: "genus:cryptobranchus stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "genus:Wolterstorffina specificepithet:parvipalmata" ; Times: 5
+	Query: "egypt" ; Times: 3
+	Query: "eleutherodactylus antillensis" ; Times: 2
+	Query: "CUMV 62" ; Times: 1
+	Query: "Pseudotriton montanus" ; Times: 2
+	Query: "catalognumber:15284 hastissue:1" ; Times: 1
+	Query: "genus:rana catalognumber:1901" ; Times: 2
+	Query: "specificepithet:wrighti genus:batrachoseps" ; Times: 1
+	Query: "mud salamander" ; Times: 1
+	Query: "kingdom:Plantae " ; Times: 1
+	Query: "eleutherodactylus johnstonei" ; Times: 1
+	Query: "specificepithet:pipiens genus:Rana stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "16003" ; Times: 1
+	Query: "genus:Ascaphus specificepithet:truei" ; Times: 3
+	Query: "genus:Desmognathus county:&#34;Tuscaloosa&#34;" ; Times: 1
+	Query: "genus:Leptopelis institutioncode:CUMV" ; Times: 1
+	Query: "specificepithet:Areolata genus:Rana county:&#34;Harris&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Gladys" ; Times: 1
+	Query: "lepidobatrachus" ; Times: 1
+	Query: "genus:Conraua specificepithet:crassipes" ; Times: 5
+	Query: "egg vntype:specimen preparations:egg basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:alvarius stateprovince:&#34;california&#34;" ; Times: 11
+	Query: "&#34;plethodon metcalfi&#34;" ; Times: 1
+	Query: "genus:Hyla specificepithet:andersonii" ; Times: 6
+	Query: "genus:Hyla specificepithet:avivoca" ; Times: 6
+	Query: "genus:Ambystoma specificepithet:mavortium" ; Times: 6
+	Query: "genus:Leptopelis specificepithet:brevirostris" ; Times: 6
+	Query: "genus:Necturus county:&#34;Mobile&#34;" ; Times: 8
+	Query: "recordedby:Legendre" ; Times: 1
+	Query: "specificepithet:arenicolor genus:Hyla order:Anura" ; Times: 1
+	Query: "genus:Acris specificepithet:crepitans" ; Times: 5
+	Query: "specificepithet:shermani genus:plethodon" ; Times: 1
+	Query: "genus:Scaphiopus specificepithet:holbrookii" ; Times: 5
+	Query: "specificepithet:cinerea genus:Hyla stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "genus:Lepidobatrachus specificepithet:laevis" ; Times: 5
+	Query: "genus:Pseudacris specificepithet:crucifer" ; Times: 2
+	Query: "genus:Ambystoma specificepithet:maculatum" ; Times: 1
+	Query: "rana draytonii" ; Times: 5
+	Query: "genus:Gyrinophilus specificepithet:porphyriticus" ; Times: 2
+	Query: "ann arbor" ; Times: 3
+	Query: "rana sierrae" ; Times: 2
+	Query: "genus:Necturus specificepithet:beyeri" ; Times: 5
+	Query: "rana montezumae" ; Times: 2
+	Query: "specificepithet:boylii genus:rana county:&#34;del norte&#34;" ; Times: 2
+	Query: "10273" ; Times: 1
+	Query: "15144" ; Times: 1
+	Query: "Kaloula baleata" ; Times: 1
+	Query: "rana draytonii distance(location,geopoint(36.85325222344019,-122.0526123046875))&lt;880453" ; Times: 1
+	Query: "genus:Amphiuma specificepithet:means" ; Times: 5
+	Query: "genus:Cynops specificepithet:pyrrhogaster" ; Times: 5
+	Query: "genus:Acris specificepithet:gryllus" ; Times: 5
+	Query: "Aneides ferreus" ; Times: 1
+	Query: "genus:Ceratophrys specificepithet:ornata" ; Times: 1
+	Query: "genus:Pseudacris specificepithet:ornata" ; Times: 7
+	Query: "specificepithet:porphyriticus genus:Gyrinophilus county:&#34;Pickens&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "CUMV 1368" ; Times: 2
+	Query: "rana berlandieri" ; Times: 1
+	Query: "siren" ; Times: 1
+	Query: "CUMV 9969" ; Times: 1
+	Query: "specificepithet:andersonii genus:Hyla stateprovince:&#34;North Carolina&#34;" ; Times: 2
+	Query: "Ceratophrys calcarata" ; Times: 3
+	Query: "genus:Cryptobranchus specificepithet:alleganiensis" ; Times: 5
+	Query: "class:Amphibia catalognumber:1200" ; Times: 1
+	Query: "amphiuma" ; Times: 1
+	Query: "mountain beaver" ; Times: 1
+	Query: "lithobates" ; Times: 1
+	Query: "cryptobranchus french" ; Times: 1
+	Query: "genus:Pseudacris county:&#34;Orange&#34;" ; Times: 1
+	Query: "eleutherodactylus wightmanae" ; Times: 1
+	Query: "specificepithet:boylii genus:rana county:&#34;del norte&#34; year &gt;= 1960" ; Times: 1
+	Query: "specificepithet:quadridigitata genus:Eurycea stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "specificepithet:microscaphus family:Bufonidae institutioncode:CUMV" ; Times: 1
+	Query: "genus:Spea specificepithet:multiplicata" ; Times: 3
+	Query: "genus:Centrolene specificepithet:prosoblepon" ; Times: 6
+	Query: "genus:Rhinophrynus specificepithet:dorsalis" ; Times: 2
+	Query: "preparations:egg" ; Times: 3
+	Query: "specificepithet:beyeri genus:Necturus stateprovince:&#34;Louisiana&#34;" ; Times: 2
+	Query: "genus:Eleutherodactylus specificepithet:johnstonei" ; Times: 5
+	Query: "genus:Hyla specificepithet:cinerea" ; Times: 4
+	Query: "genus:Leptodactylus specificepithet:validus" ; Times: 5
+	Query: "genus:Ichthyophis specificepithet:glutinosus" ; Times: 5
+	Query: "county:&#34;bacon&#34; stateprovince:&#34;georgia&#34;" ; Times: 1
+	Query: "genus:Pseudacris county:&#34;Orange&#34; stateprovince:&#34;California&#34; mappable:1" ; Times: 1
+	Query: "genus:Thorius specificepithet:narisovalis" ; Times: 6
+	Query: "Mallard" ; Times: 2
+	Query: "amphibian" ; Times: 1
+	Query: "genus:Gastrophryne specificepithet:carolinensis" ; Times: 5
+	Query: "1617" ; Times: 2
+	Query: "specificepithet:onca " ; Times: 1
+	Query: "specificepithet:quercicus genus:Bufo stateprovince:&#34;North Carolina&#34;" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 28 (out of 1284 download events in this period)
+Total number of records downloaded: 19304
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 15
+	Country: Belgium ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Mexico ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-18 ; Times: 1
+	Date: 2018-03-07 ; Times: 1
+	Date: 2018-03-01 ; Times: 2
+	Date: 2018-03-19 ; Times: 1
+	Date: 2018-03-06 ; Times: 1
+	Date: 2018-03-10 ; Times: 8
+	Date: 2018-03-26 ; Times: 1
+	Date: 2018-03-09 ; Times: 1
+	Date: 2018-03-27 ; Times: 3
+	Date: 2018-03-25 ; Times: 2
+	Date: 2018-03-23 ; Times: 3
+	Date: 2018-03-20 ; Times: 3
+	Date: 2018-03-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:&#34;Chihuahua&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "eleutherodactylus antillensis" ; Times: 1
+	Query: "specificepithet:johnstonei genus:Eleutherodactylus" ; Times: 1
+	Query: "year &gt; 2000" ; Times: 1
+	Query: "Lepidobatrachus" ; Times: 1
+	Query: "stateprovince:&#34;new york&#34; (FISH) institutioncode:CUMV" ; Times: 1
+	Query: "vntype:specimen order:Anura institutioncode:CUMV" ; Times: 2
+	Query: "Aneides ferreus" ; Times: 1
+	Query: "order:Anura county:&#34;San Bernardino&#34;" ; Times: 1
+	Query: "specificepithet:beyeri genus:Necturus stateprovince:&#34;Louisiana&#34;" ; Times: 2
+	Query: "pseudotriton montanus" ; Times: 1
+	Query: "plethodon cinereus institutioncode:CUMV" ; Times: 1
+	Query: "eleutherodactylus brittoni" ; Times: 1
+	Query: "eleutherodactylus portoricensis" ; Times: 1
+	Query: "Ceratophrys" ; Times: 1
+	Query: "eleutherodactylus wightmanae" ; Times: 1
+	Query: "rana montezumae" ; Times: 2
+	Query: "preparations:egg" ; Times: 1
+	Query: "specificepithet:shermani genus:plethodon" ; Times: 1
+	Query: "eleutherodactylus gryllus" ; Times: 1
+	Query: "eleutherodactylus coqui" ; Times: 1
+	Query: "ambystoma texanum" ; Times: 1
+	Query: "specificepithet:jordani genus:plethodon AND NOT specificepithet:shermani AND NOT specificepithet:metcalfi AND NOT specificepithet:montanus AND NOT specificepithet:clemsonae AND NOT specificepithet:amplus AND NOT specificepithet:meridianus AND NOT specificepithet:cheoah" ; Times: 1
+	Query: "eleutherodactylus cochranae" ; Times: 1
+	Query: "ambystoma maculatum" ; Times: 1
+
+
+End of report.
