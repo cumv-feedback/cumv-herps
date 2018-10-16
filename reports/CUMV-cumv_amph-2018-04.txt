@@ -1,0 +1,321 @@
+Report for Institution Code CUMV, Resource cumv_amph
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 287
+Number of records retrieved in searches: 2373
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: United States ; Times: 265
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 7
+	Country: Unknown ; Times: 2
+	Country: Czechia ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Japan ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-28 ; Times: 4
+	Date: 2018-04-23 ; Times: 33
+	Date: 2018-04-22 ; Times: 12
+	Date: 2018-04-21 ; Times: 5
+	Date: 2018-04-20 ; Times: 7
+	Date: 2018-04-27 ; Times: 6
+	Date: 2018-04-26 ; Times: 9
+	Date: 2018-04-25 ; Times: 10
+	Date: 2018-04-24 ; Times: 10
+	Date: 2018-04-01 ; Times: 2
+	Date: 2018-04-03 ; Times: 29
+	Date: 2018-04-02 ; Times: 25
+	Date: 2018-04-05 ; Times: 8
+	Date: 2018-04-04 ; Times: 19
+	Date: 2018-04-07 ; Times: 1
+	Date: 2018-04-06 ; Times: 6
+	Date: 2018-04-09 ; Times: 6
+	Date: 2018-04-08 ; Times: 3
+	Date: 2018-04-16 ; Times: 8
+	Date: 2018-04-12 ; Times: 12
+	Date: 2018-04-13 ; Times: 4
+	Date: 2018-04-10 ; Times: 7
+	Date: 2018-04-11 ; Times: 4
+	Date: 2018-04-30 ; Times: 10
+	Date: 2018-04-17 ; Times: 19
+	Date: 2018-04-14 ; Times: 1
+	Date: 2018-04-15 ; Times: 4
+	Date: 2018-04-18 ; Times: 1
+	Date: 2018-04-19 ; Times: 22
+
+List of queries that retrieved data from the resource: 
+	Query: "Rana berlandieri" ; Times: 2
+	Query: "Amphibia (Abbeville)" ; Times: 1
+	Query: "Caudata county:&#34;Columbia&#34; stateprovince:&#34;Florida&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "institutioncode:cumv" ; Times: 2
+	Query: "Spea multiplicata" ; Times: 1
+	Query: "(kansas state OR KSU)" ; Times: 2
+	Query: "Smilisca baudinii" ; Times: 1
+	Query: "leptopelis brevirostris" ; Times: 1
+	Query: "catalognumber:3346 institutioncode:CUMV" ; Times: 2
+	Query: "genus:aneides stateprovince:&#34;west virginia&#34;" ; Times: 2
+	Query: "Eurycea longicauda New York" ; Times: 1
+	Query: "&#34;weymouth&#34;" ; Times: 1
+	Query: "scaphiopus couchii" ; Times: 1
+	Query: "genus:plethodon county:&#34;lamar&#34; stateprovince:&#34;mississippi&#34;" ; Times: 7
+	Query: "scaphiopus hammondii" ; Times: 1
+	Query: "vntype:specimen (Amphibia AND &#34;South Carolina&#34;) AND (NOT Aiken OR Barnwell OR Charleston OR Berkeley)" ; Times: 1
+	Query: "Hypopachus variolosus" ; Times: 2
+	Query: "specificepithet:texanum genus:Ambystoma stateprovince:&#34;Ohio&#34;" ; Times: 1
+	Query: "catalognumber:2100 institutioncode:CUMV" ; Times: 3
+	Query: "Plethodon richmondi" ; Times: 3
+	Query: "Brook trout" ; Times: 2
+	Query: "cryptobranchus French" ; Times: 3
+	Query: "catalognumber:8962 institutioncode:CUMV" ; Times: 2
+	Query: "Hemidactylium scutatum" ; Times: 3
+	Query: "&#34;necturus punctatus&#34;" ; Times: 1
+	Query: "preparations:skeleton genus:andrias" ; Times: 1
+	Query: "distance(location,geopoint(38.9717,-95.2353))&lt;3795" ; Times: 1
+	Query: "catalognumber:5064 institutioncode:CUMV" ; Times: 2
+	Query: "distance(location,geopoint(44.95011,-110.58715))&lt;50000" ; Times: 3
+	Query: "specificepithet:sylvatica genus:Rana stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "catalognumber:2241 institutioncode:CUMV" ; Times: 3
+	Query: "vntype:specimen class:Amphibia county:&#34;Abbeville&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "catalognumber:10789 institutioncode:CUMV" ; Times: 2
+	Query: "Pseudotriton ruber stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "Dickey Collection" ; Times: 1
+	Query: "specificepithet:crepitans genus:Acris stateprovince:&#34;Tennessee&#34;" ; Times: 3
+	Query: "bufo canorus" ; Times: 3
+	Query: "ALLEGANIENSIS ALLEGANIENSIS" ; Times: 1
+	Query: "plethodon vandykei" ; Times: 10
+	Query: "scaphiopus hammondi" ; Times: 1
+	Query: "genus:Bufo bufo hastissue:1" ; Times: 1
+	Query: "hankinson" ; Times: 1
+	Query: "bufo debilis" ; Times: 2
+	Query: "genus:nectophryne hastissue:1" ; Times: 1
+	Query: "specificepithet:aurora genus:rana county:&#34;los angeles&#34;" ; Times: 1
+	Query: "specificepithet:Montezumae family:Ranidae country:&#34;Mexico&#34;" ; Times: 2
+	Query: "Eleutherodactylus coqui" ; Times: 1
+	Query: "Pseudacris clarkii" ; Times: 1
+	Query: "specificepithet:opacum genus:ambystoma stateprovince:&#34;Virginia&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "county:&#34;Greenville&#34; (Amphibia AND &#34;South Carolina&#34; AND Greenville)" ; Times: 1
+	Query: "specificepithet:hemiophrys" ; Times: 2
+	Query: "class:amphibia stateprovince:&#34;south carolina&#34; (amphibia AND &#34;south carolina&#34; AND Greenville)" ; Times: 2
+	Query: "hemiophrys" ; Times: 1
+	Query: "Lithobates pipiens" ; Times: 1
+	Query: "Necturus" ; Times: 1
+	Query: "phrynobatrachus auritus" ; Times: 2
+	Query: "masticophis flagellum" ; Times: 2
+	Query: "ambystoma texanum" ; Times: 2
+	Query: "genus:wolterstorffina hastissue:1" ; Times: 1
+	Query: "eleutherodactylus johnstonei" ; Times: 1
+	Query: "order:caudata stateprovince:&#34;north carolina&#34; (&#34;scotland&#34; OR &#34;richmond&#34; OR &#34;hoke&#34; OR &#34;moore&#34; OR &#34;robeson&#34;) AND (NOT &#34;thamnophis&#34; NOT &#34;coluber&#34; NOT &#34;sceloporus&#34; NOT &#34;pantherophis&#34; NOT &#34;elaphe&#34; NOT &#34;plestiodon&#34; NOT &#34;storeria&#34; NOT &#34;nerodia&#34; NOT &#34;diadophis&#34;) year &gt;= 1960 month &gt;= 4 month &lt;= 10 mappable:1" ; Times: 1
+	Query: "specificepithet:vandykei genus:plethodon" ; Times: 2
+	Query: "catalognumber:13144 institutioncode:CUMV" ; Times: 2
+	Query: "catalognumber:10926 institutioncode:CUMV" ; Times: 3
+	Query: "Amphibia (Abbeville AND County)" ; Times: 1
+	Query: "class:Amphibia county:&#34;Abbeville&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 3
+	Query: "catalognumber:1368 institutioncode:CUMV" ; Times: 3
+	Query: "andersonii" ; Times: 1
+	Query: "specificepithet:montezumae family:Ranidae" ; Times: 1
+	Query: "Eleutherodactylus marnockii" ; Times: 1
+	Query: "distance(location,geopoint(44.95348,-110.53914))&lt;50000" ; Times: 1
+	Query: "class:Amphibia county:&#34;Greenville&#34; (amphibia AND &#34;South Carolina&#34;)" ; Times: 1
+	Query: "specificepithet:maculatum genus:Ambystoma stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "catalognumber:8963 institutioncode:CUMV" ; Times: 2
+	Query: "catalognumber:3516 institutioncode:CUMV" ; Times: 2
+	Query: "plethodon vandykei stateprovince:&#34;washington&#34;" ; Times: 2
+	Query: "Harrison and Island" ; Times: 1
+	Query: "avivoca" ; Times: 1
+	Query: "Scaphiopus couchii" ; Times: 1
+	Query: "CU 10629" ; Times: 1
+	Query: "catalognumber:11009 institutioncode:CUMV" ; Times: 2
+	Query: "specificepithet:tigrinum genus:Ambystoma" ; Times: 1
+	Query: "specificepithet:boylii genus:rana county:&#34;los angeles&#34;" ; Times: 2
+	Query: "kingdom:Plantae " ; Times: 3
+	Query: "Rana montezumae" ; Times: 4
+	Query: "specificepithet:vandykei genus:Plethodon county:&#34;pierce&#34; stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "vntype:specimen class:amphibia stateprovince:&#34;South Carolina&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "vntype:specimen class:Amphibia county:&#34;Greenville&#34; (Amphibia AND &#34;South Carolina&#34; AND Greenville) basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "order:Anura stateprovince:&#34;Minnesota&#34;" ; Times: 2
+	Query: "county:&#34;Spartanburg&#34; (Amphibia AND &#34;South Carolina&#34; AND Spartanburg)" ; Times: 1
+	Query: "Amphibia (Carolina AND Abbeville)" ; Times: 1
+	Query: "Necturus lodingi" ; Times: 1
+	Query: "masticophis flagellum flagellum" ; Times: 2
+	Query: "vntype:specimen class:Amphibia county:&#34;greenville&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:Ambystoma haslength:1" ; Times: 1
+	Query: "recordedby:branner" ; Times: 1
+	Query: "genus:Ambystoma specificepithet:mavortium" ; Times: 2
+	Query: "Spea bombifrons" ; Times: 2
+	Query: "mountain beaver" ; Times: 1
+	Query: "CUMV 3267" ; Times: 1
+	Query: "specificepithet:tigrinum genus:Ambystoma mappable:1" ; Times: 1
+	Query: "mavortium" ; Times: 1
+	Query: "genus:Agalychnis specificepithet:callidryas" ; Times: 5
+	Query: "specificepithet:andersonii (&#34;scotland&#34; OR &#34;richmond&#34; OR &#34;hoke&#34; OR &#34;moore&#34; OR &#34;robeson&#34;)" ; Times: 1
+	Query: "Taricha sierrae" ; Times: 1
+	Query: "scaphiopus couchi" ; Times: 1
+	Query: "Ascaphus stateprovince:&#34;Idaho&#34; (Idaho)" ; Times: 2
+	Query: "lithobates pipiens stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "anotheca" ; Times: 1
+	Query: "country:&#34;egypt&#34;" ; Times: 1
+	Query: "brook trout" ; Times: 3
+	Query: "rana sierrae" ; Times: 2
+	Query: "slater museum" ; Times: 1
+	Query: "genus:Necturus specificepithet:beyeri" ; Times: 1
+	Query: "aneides hardii" ; Times: 1
+	Query: "institutioncode:CUMV hastissue:1" ; Times: 1
+	Query: "vntype:specimen class:Amphibia county:&#34;anderson&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "Pseudotriton montanus" ; Times: 3
+	Query: "specificepithet:calamita hastissue:1" ; Times: 1
+	Query: "dicamptodon ensatus" ; Times: 2
+	Query: "Osteopilus septentrionalis" ; Times: 1
+	Query: "Gastrophryne carolinensis" ; Times: 1
+	Query: "Gastrophryne olivacea" ; Times: 1
+	Query: "family:Bufonidae hastissue:1" ; Times: 1
+	Query: "wisconsin necturus" ; Times: 4
+	Query: "catalognumber:6096 institutioncode:CUMV" ; Times: 3
+	Query: "Necturus beyeri" ; Times: 7
+	Query: "Hyla squirella" ; Times: 1
+	Query: "specificepithet:andersonii genus:Hyla stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "Physalaemus" ; Times: 1
+	Query: "(Amphibia AND &#34;South Carolina&#34; AND Abbeville)" ; Times: 1
+	Query: "Hyla cinerea" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 5
+	Query: "county:&#34;Chesterfield&#34; (Amphibia AND &#34;South Carolina&#34; AND Chesterfield)" ; Times: 2
+	Query: "Cibola County New Mexico" ; Times: 1
+	Query: "vntype:specimen (Amphibia AND &#34;South Carolina&#34;)" ; Times: 1
+	Query: "catalognumber:13145 institutioncode:CUMV" ; Times: 2
+	Query: "hyla femoralis" ; Times: 1
+	Query: "anotheca spinosa" ; Times: 1
+	Query: "catalognumber:4366 institutioncode:CUMV" ; Times: 2
+	Query: "vntype:specimen class:Amphibia county:&#34;Spartanburg&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "vntype:specimen class:Amphibia county:&#34;Pickens&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;District of Columbia&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "class:Amphibia county:&#34;Anderson&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "Amphibia (Carolina AND Anderson OR Abbeville OR Greenville OR Spartaburg)" ; Times: 1
+	Query: "plethodon idahoensis" ; Times: 1
+	Query: "Necturus punctatus" ; Times: 6
+	Query: "cryptobranchus alleganiensis" ; Times: 1
+	Query: "Hawaii amphibia" ; Times: 1
+	Query: "hyla andersonii" ; Times: 1
+	Query: "genus:Bufo hastissue:1" ; Times: 1
+	Query: "county:&#34;Anderson&#34; (Amphibia AND &#34;South Carolina&#34; AND Anderson)" ; Times: 1
+	Query: "Rana areolata" ; Times: 6
+	Query: "vntype:specimen class:Amphibia county:&#34;Oconee&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "class:Amphibia county:&#34;Greenville&#34; (Amphibia AND &#34;South Carolina&#34; AND Greenville)" ; Times: 1
+	Query: "county:&#34;Abbeville&#34; (Amphibia AND &#34;South Carolina&#34; AND Abbeville)" ; Times: 1
+	Query: "county:&#34;Saint James&#34; stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "catalognumber:2214 institutioncode:CUMV" ; Times: 1
+	Query: "specificepithet:quercicus genus:Bufo stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "catalognumber:2882 institutioncode:CUMV" ; Times: 2
+	Query: "arenicolor" ; Times: 1
+	Query: "genus:Kaloula specificepithet:baleata" ; Times: 1
+	Query: "Rana grylio" ; Times: 4
+	Query: "hyla gratiosa" ; Times: 1
+	Query: "vntype:specimen class:Amphibia county:&#34;Chesterfield&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 71 (out of 1359 download events in this period)
+Total number of records downloaded: 3969
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: United States ; Times: 61
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-12 ; Times: 3
+	Date: 2018-04-10 ; Times: 1
+	Date: 2018-04-17 ; Times: 4
+	Date: 2018-04-16 ; Times: 5
+	Date: 2018-04-04 ; Times: 5
+	Date: 2018-04-06 ; Times: 1
+	Date: 2018-04-09 ; Times: 1
+	Date: 2018-04-18 ; Times: 1
+	Date: 2018-04-19 ; Times: 2
+	Date: 2018-04-03 ; Times: 3
+	Date: 2018-04-28 ; Times: 2
+	Date: 2018-04-23 ; Times: 19
+	Date: 2018-04-22 ; Times: 7
+	Date: 2018-04-20 ; Times: 4
+	Date: 2018-04-27 ; Times: 3
+	Date: 2018-04-26 ; Times: 6
+	Date: 2018-04-25 ; Times: 1
+	Date: 2018-04-15 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "country:&#34;brazil&#34;" ; Times: 1
+	Query: "specificepithet:maculatum genus:Ambystoma stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "Amphibia (Abbeville)" ; Times: 1
+	Query: "class:Amphibia county:&#34;Harris&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "distance(location,geopoint(44.95348,-110.53914))&lt;50000" ; Times: 1
+	Query: "Rana berlandieri" ; Times: 1
+	Query: "Gastrophryne carolinensis" ; Times: 2
+	Query: "Gastrophryne olivacea" ; Times: 1
+	Query: "Spea multiplicata" ; Times: 1
+	Query: "Rhinophrynus dorsalis" ; Times: 1
+	Query: "Rana sphenocephala" ; Times: 1
+	Query: "bufo boreas" ; Times: 1
+	Query: "genus:crotalus sex:male OR female" ; Times: 1
+	Query: "Scaphiopus hurterii" ; Times: 1
+	Query: "Smilisca baudinii" ; Times: 1
+	Query: "Necturus beyeri" ; Times: 1
+	Query: "leptopelis brevirostris" ; Times: 1
+	Query: "Rana montezumae" ; Times: 2
+	Query: "ambystoma macrodactylum" ; Times: 1
+	Query: "Pseudacris streckeri" ; Times: 1
+	Query: "specificepithet:Montezumae family:Ranidae country:&#34;Mexico&#34;" ; Times: 1
+	Query: "scaphiopus couchii" ; Times: 1
+	Query: "Hyla chrysoscelis" ; Times: 1
+	Query: "specificepithet:longicauda genus:Eurycea stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "Hyla cinerea" ; Times: 1
+	Query: "Thorius" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "distance(location,geopoint(38.89332,-78.14678))&lt;50000" ; Times: 1
+	Query: "Eleutherodactylus coqui" ; Times: 1
+	Query: "Rana palustris" ; Times: 1
+	Query: "Pseudacris clarkii" ; Times: 1
+	Query: "specificepithet:opacum genus:ambystoma stateprovince:&#34;Virginia&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Hypopachus variolosus" ; Times: 1
+	Query: "scaphiopus hammondii" ; Times: 1
+	Query: "Eleutherodactylus marnockii" ; Times: 1
+	Query: "Spea bombifrons" ; Times: 1
+	Query: "anotheca spinosa" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Gastrophryne stateprovince:&#34;texas&#34;" ; Times: 2
+	Query: "stateprovince:&#34;Mato Grosso do Sul&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Scaphiopus couchii" ; Times: 1
+	Query: "Osteopilus septentrionalis" ; Times: 1
+	Query: "Eleutherodactylus cystignathoides" ; Times: 1
+	Query: "Rana areolata" ; Times: 1
+	Query: "distance(location,geopoint(29.67647,-82.00909))&lt;50000" ; Times: 1
+	Query: "plethodon vandykei stateprovince:&#34;washington&#34;" ; Times: 1
+	Query: "vntype:specimen class:amphibia stateprovince:&#34;South Carolina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Acris crepitans" ; Times: 1
+	Query: "specificepithet:sylvatica genus:Rana stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "Necturus lodingi" ; Times: 1
+	Query: "New Guinea" ; Times: 1
+	Query: "distance(location,geopoint(44.95011,-110.58715))&lt;50000" ; Times: 1
+	Query: "specificepithet:vandykei genus:plethodon" ; Times: 1
+	Query: "Rana catesbeiana" ; Times: 1
+	Query: "specificepithet:glutinosus genus:Plethodon stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "specificepithet:sylvatica genus:Rana stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "Hyla squirella" ; Times: 1
+	Query: "hasmass:1" ; Times: 1
+	Query: "Plethodon cinereus" ; Times: 2
+	Query: "haslength:1" ; Times: 2
+	Query: "bufo debilis" ; Times: 1
+	Query: "genus:Crotalus sex:Male OR Female" ; Times: 1
+	Query: "specificepithet:maculatum genus:Ambystoma stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Pernambuco&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Notophthalmus viridescens" ; Times: 1
+	Query: "specificepithet:montezumae family:Ranidae" ; Times: 1
+	Query: "Rana grylio" ; Times: 1
+
+
+End of report.
