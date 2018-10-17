@@ -1,0 +1,289 @@
+Report for Institution Code CUMV, Resource cumv_amph
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 224
+Number of records retrieved in searches: 2174
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 187
+	Country: Netherlands ; Times: 2
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 3
+	Country: Cayman Islands ; Times: 2
+	Country: United Kingdom ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Spain ; Times: 8
+	Country: Peru ; Times: 1
+	Country: Kuwait ; Times: 2
+	Country: Argentina ; Times: 1
+	Country: Fiji ; Times: 1
+	Country: Brazil ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 23
+	Date: 2018-06-06 ; Times: 11
+	Date: 2018-06-05 ; Times: 21
+	Date: 2018-06-04 ; Times: 9
+	Date: 2018-06-03 ; Times: 16
+	Date: 2018-06-02 ; Times: 5
+	Date: 2018-06-01 ; Times: 4
+	Date: 2018-06-25 ; Times: 15
+	Date: 2018-06-24 ; Times: 10
+	Date: 2018-06-27 ; Times: 10
+	Date: 2018-06-26 ; Times: 10
+	Date: 2018-06-21 ; Times: 7
+	Date: 2018-06-20 ; Times: 8
+	Date: 2018-06-23 ; Times: 1
+	Date: 2018-06-08 ; Times: 8
+	Date: 2018-06-22 ; Times: 3
+	Date: 2018-06-10 ; Times: 1
+	Date: 2018-06-11 ; Times: 6
+	Date: 2018-06-12 ; Times: 1
+	Date: 2018-06-13 ; Times: 2
+	Date: 2018-06-14 ; Times: 7
+	Date: 2018-06-15 ; Times: 8
+	Date: 2018-06-16 ; Times: 3
+	Date: 2018-06-17 ; Times: 5
+	Date: 2018-06-18 ; Times: 1
+	Date: 2018-06-19 ; Times: 12
+	Date: 2018-06-30 ; Times: 3
+	Date: 2018-06-29 ; Times: 5
+	Date: 2018-06-28 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "distance(location,geopoint(39.2400334086807,-86.5684060061948))&lt;11509" ; Times: 1
+	Query: "genus:Hemidactylium specificepithet:scutatum" ; Times: 1
+	Query: "specificepithet:versicolor genus:Hyla stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "mallard" ; Times: 1
+	Query: "vntype:specimen specificepithet:conspersus genus:anolis" ; Times: 1
+	Query: "Lepidobatrachus laevis" ; Times: 2
+	Query: "Salamandra atra" ; Times: 1
+	Query: "Andrias japonicus" ; Times: 1
+	Query: "distance(location,geopoint(43.3170839449814,-89.5421914455564))&lt;3069" ; Times: 1
+	Query: "kansas state university" ; Times: 1
+	Query: "class:Amphibia county:&#34;Hidalgo&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:versicolor genus:Hyla stateprovince:&#34;New York&#34; hastissue:1" ; Times: 1
+	Query: "axolotl" ; Times: 4
+	Query: "genus:cryptobranchus" ; Times: 1
+	Query: "amphibian" ; Times: 8
+	Query: "order:Caudata lifestage:egg" ; Times: 3
+	Query: "genus: Necturus" ; Times: 1
+	Query: "cryptobranchus pennsylvania" ; Times: 4
+	Query: "Mountain Beaver" ; Times: 3
+	Query: "specificepithet:virgatipes genus:rana" ; Times: 1
+	Query: "genus:hyla stateprovince:&#34;georgia&#34;" ; Times: 1
+	Query: "salamander" ; Times: 12
+	Query: "cryptobranchus french creek" ; Times: 1
+	Query: "catalognumber:13265 institutioncode:CUMV" ; Times: 2
+	Query: "Bufo valliceps" ; Times: 1
+	Query: "Cryptobranchus Missouri" ; Times: 2
+	Query: "Hydromantes platycephalus" ; Times: 3
+	Query: "county:&#34;Davie&#34; stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "plethodon shermani" ; Times: 2
+	Query: "vertebrates" ; Times: 1
+	Query: "Cynops pyrrhogaster" ; Times: 1
+	Query: "county:&#34;columbia&#34; stateprovince:&#34;Georgia&#34;" ; Times: 4
+	Query: "genus:necturus stateprovince:&#34;alabama&#34;" ; Times: 2
+	Query: "specificepithet:carolinensis genus:gastrophryne stateprovince:&#34;georgia&#34;" ; Times: 1
+	Query: "eleutherodactylus marnockii" ; Times: 2
+	Query: "Leptodactylus melanonotus" ; Times: 1
+	Query: "Amphiuma means" ; Times: 1
+	Query: "Siren lacertina" ; Times: 1
+	Query: "bioko" ; Times: 1
+	Query: "locality:EL MORRO stateprovince:&#34;NEW MEXICO&#34;" ; Times: 1
+	Query: "11605" ; Times: 1
+	Query: "GDC" ; Times: 1
+	Query: "specificepithet:femoralis genus:hyla stateprovince:&#34;georgia&#34;" ; Times: 4
+	Query: "salamander United States" ; Times: 1
+	Query: "specificepithet:alvarius stateprovince:&#34;California&#34; country:&#34;United States&#34;" ; Times: 3
+	Query: "catalognumber:5788" ; Times: 1
+	Query: "Salamander vntype:specimen" ; Times: 1
+	Query: "Rana aurora" ; Times: 1
+	Query: "plethodon wehrlei stateprovince:&#34;Pennsylvania&#34;" ; Times: 4
+	Query: "catalognumber:10525 institutioncode:CUMV" ; Times: 2
+	Query: "James Bishop" ; Times: 2
+	Query: "Taricha rivularis" ; Times: 1
+	Query: "locality:el morro" ; Times: 2
+	Query: "andrias" ; Times: 1
+	Query: "Salamandrella keyserlingii" ; Times: 1
+	Query: "Rana sierrae" ; Times: 1
+	Query: "fmnh 2014" ; Times: 1
+	Query: "specificepithet:punctatus class:amphibia county:&#34;Inyo&#34;" ; Times: 2
+	Query: "beavers" ; Times: 2
+	Query: "genus:Oedipina specificepithet:uniformis" ; Times: 1
+	Query: "Lithobates clamitans" ; Times: 1
+	Query: "cryptobranchus Allegheny" ; Times: 3
+	Query: "andersonii" ; Times: 1
+	Query: "distance(location,geopoint(37.8548349724,-89.6120349651731))&lt;13150" ; Times: 1
+	Query: "Eleutherodactylus ricordii" ; Times: 3
+	Query: "genus:Ascaphus" ; Times: 3
+	Query: "Amphiuma tridactylum" ; Times: 1
+	Query: "genus:Eleutherodactylus hastissue:1" ; Times: 1
+	Query: "Pseudacris regilla" ; Times: 1
+	Query: "ocelot" ; Times: 2
+	Query: "acris stateprovince:&#34;Pennsylvania&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:conspersus genus:anolis" ; Times: 1
+	Query: "kingdom:Plantae " ; Times: 1
+	Query: "eleutherodactylus ricordii" ; Times: 1
+	Query: "stateprovince:&#34;california&#34; recordedby:J. brown year &gt;= 1953 year &lt;= 1953" ; Times: 1
+	Query: "Necturus" ; Times: 1
+	Query: "Salamandra salamandra" ; Times: 1
+	Query: "9216 institutioncode:CUMV" ; Times: 1
+	Query: "16088 vntype:specimen" ; Times: 1
+	Query: "cryptobranchus cattaraugus" ; Times: 3
+	Query: "county:&#34;columbia&#34; stateprovince:&#34;georgia&#34;" ; Times: 2
+	Query: "Proteus anguinus" ; Times: 1
+	Query: "Plethodon shermani" ; Times: 2
+	Query: "genus:Ambystoma specificepithet:laterale" ; Times: 1
+	Query: "specificepithet:septentrionalis genus:rana stateprovince:&#34;new york&#34; year &gt;= 1960" ; Times: 1
+	Query: "Eleutherodactylus cochranae" ; Times: 2
+	Query: "Ascaphus" ; Times: 1
+	Query: "mountain beaver" ; Times: 1
+	Query: "stateprovince:&#34;Bioko&#34;" ; Times: 1
+	Query: "class:amphibia county:&#34;columbia&#34; stateprovince:&#34;georgia&#34;" ; Times: 1
+	Query: "genus:Agalychnis specificepithet:callidryas" ; Times: 1
+	Query: "proteus anguinus" ; Times: 2
+	Query: "15540" ; Times: 1
+	Query: "specificepithet:squirella genus:hyla stateprovince:&#34;georgia&#34;" ; Times: 1
+	Query: "genus:Acris county:&#34;Richmond&#34; stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "Taricha sierrae" ; Times: 1
+	Query: "valliceps" ; Times: 3
+	Query: "class:amphibia county:&#34;Inyo&#34; year &gt;= 1941 year &lt;= 1960" ; Times: 3
+	Query: "osteopilus septentrionalis" ; Times: 1
+	Query: "Thorius pulmonaris" ; Times: 1
+	Query: "genus:Ascaphus stateprovince:&#34;Idaho&#34;" ; Times: 1
+	Query: "order:anura county:&#34;columbia&#34; stateprovince:&#34;georgia&#34;" ; Times: 1
+	Query: "genus:rana locality:monrovia county:&#34;los angeles&#34;" ; Times: 1
+	Query: "specificepithet:punctatus county:&#34;Inyo&#34;" ; Times: 1
+	Query: "genus:Ambystoma specificepithet:mexicanum" ; Times: 1
+	Query: "plethodon richmondi" ; Times: 1
+	Query: "Pseudotriton montanus" ; Times: 1
+	Query: "Rana pretiosa mappable:1" ; Times: 1
+	Query: "cryptobranchus new york" ; Times: 1
+	Query: "county:&#34;Washtenaw&#34;" ; Times: 2
+	Query: "class:Amphibia county:&#34;Freestone&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "class:amphibia county:&#34;Inyo&#34; year &gt;= 1921 year &lt;= 1940" ; Times: 2
+	Query: "genus:Ceratophrys specificepithet:ornata" ; Times: 2
+	Query: "specificepithet:boylii genus:rana county:&#34;el dorado&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Ascaphus truei" ; Times: 1
+	Query: "Necturus beyeri" ; Times: 1
+	Query: "catalognumber:8960 institutioncode:CUMV" ; Times: 1
+	Query: "Plethodon richmondi Virginia" ; Times: 1
+	Query: "class:Amphibia county:&#34;Santa Cruz&#34; stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "Rana Hemphill year &gt;= 1940" ; Times: 1
+	Query: "cumv 15024" ; Times: 1
+	Query: "stereochilus marginatus" ; Times: 1
+	Query: "Salamander" ; Times: 1
+	Query: "Andrias" ; Times: 2
+	Query: "genus:Pseudotriton specificepithet:montanus" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "genus:necturus stateprovince:&#34;louisiana&#34;" ; Times: 1
+	Query: "frog north america" ; Times: 1
+	Query: "specificepithet:striatus genus:pseudobranchus" ; Times: 1
+	Query: "Megophrys nasuta" ; Times: 1
+	Query: "cryptobranchus woodcock" ; Times: 2
+	Query: "class:Amphibia county:&#34;Freestone&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Mannophryne trinitatis" ; Times: 1
+	Query: "hyla andersonii" ; Times: 1
+	Query: "Stereochilus marginatus" ; Times: 4
+	Query: "genus:eurycea stateprovince:&#34;louisiana&#34;" ; Times: 1
+	Query: "catalognumber:6882" ; Times: 1
+	Query: "specificepithet:septentrionalis genus:rana stateprovince:&#34;new york&#34;" ; Times: 1
+	Query: "specificepithet:pretiosa genus:rana stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "cryptobranchus" ; Times: 1
+	Query: "Ambystoma mexicanum" ; Times: 2
+	Query: "specificepithet:virgatipes genus:rana month &lt;= 2" ; Times: 1
+	Query: "Notophthalmus meridionalis" ; Times: 1
+	Query: "county:&#34;Washtenaw&#34; stateprovince:&#34;Michigan&#34;" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 64 (out of 1169 download events in this period)
+Total number of records downloaded: 829
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 43
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Cayman Islands ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Spain ; Times: 15
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 8
+	Date: 2018-06-01 ; Times: 2
+	Date: 2018-06-06 ; Times: 8
+	Date: 2018-06-10 ; Times: 2
+	Date: 2018-06-11 ; Times: 2
+	Date: 2018-06-05 ; Times: 10
+	Date: 2018-06-04 ; Times: 3
+	Date: 2018-06-03 ; Times: 10
+	Date: 2018-06-02 ; Times: 4
+	Date: 2018-06-16 ; Times: 1
+	Date: 2018-06-17 ; Times: 1
+	Date: 2018-06-25 ; Times: 5
+	Date: 2018-06-20 ; Times: 1
+	Date: 2018-06-30 ; Times: 2
+	Date: 2018-06-08 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Pseudotriton montanus" ; Times: 1
+	Query: "ocelot" ; Times: 1
+	Query: "Plethodon dunni" ; Times: 1
+	Query: "Taricha granulosa granulosa" ; Times: 1
+	Query: "county:&#34;pierce&#34; stateprovince:&#34;washington&#34; continent:North America" ; Times: 1
+	Query: "Amphiuma tridactylum" ; Times: 1
+	Query: "Eleutherodactylus cochranae" ; Times: 1
+	Query: "Lepidobatrachus laevis" ; Times: 1
+	Query: "Pseudacris regilla" ; Times: 1
+	Query: "Pseudoeurycea smithi" ; Times: 1
+	Query: "acris stateprovince:&#34;Pennsylvania&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "taricha granulosa" ; Times: 4
+	Query: "Siren lacertina" ; Times: 1
+	Query: "class:Amphibia county:&#34;Santa Cruz&#34; stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "Andrias japonicus" ; Times: 1
+	Query: "Triturus cristatus" ; Times: 1
+	Query: "class:Amphibia county:&#34;Hidalgo&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "frog" ; Times: 1
+	Query: "Salamandra salamandra" ; Times: 1
+	Query: "axolotl" ; Times: 3
+	Query: "Siren intermedia" ; Times: 1
+	Query: "Taricha torosa" ; Times: 1
+	Query: "specificepithet:boylii genus:rana stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Rhyacotriton olympicus" ; Times: 2
+	Query: "order:Caudata lifestage:egg" ; Times: 1
+	Query: "moose" ; Times: 1
+	Query: "specificepithet:scutulatus genus:Crotalus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Mountain Beaver" ; Times: 1
+	Query: "Taricha rivularis" ; Times: 1
+	Query: "oregon" ; Times: 1
+	Query: "Salamandrella keyserlingii" ; Times: 1
+	Query: "order:Squamata class:reptilia" ; Times: 1
+	Query: "Bufo boreas" ; Times: 1
+	Query: "proteus anguinus" ; Times: 1
+	Query: "locality:el morro" ; Times: 1
+	Query: "locality:Cave stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "Pseudotriton ruber" ; Times: 1
+	Query: "coyote" ; Times: 1
+	Query: "newt" ; Times: 3
+	Query: "Ambystoma macrodactylum sigillatum" ; Times: 1
+	Query: "Taricha sierrae" ; Times: 1
+	Query: "valliceps" ; Times: 1
+	Query: "beavers" ; Times: 1
+	Query: "Thorius pulmonaris" ; Times: 1
+	Query: "hasmass:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:conspersus genus:anolis" ; Times: 1
+	Query: "Centrolene" ; Times: 2
+	Query: "Hyla regilla" ; Times: 1
+	Query: "Taricha granulosa" ; Times: 3
+	Query: "Stereochilus marginatus" ; Times: 2
+
+
+End of report.
